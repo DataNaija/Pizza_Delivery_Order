@@ -1,6 +1,6 @@
 # Pizza_Delivery_Order
 # Instructions
-# Build an automatic pizza order program. 
+# An automatic pizza order program. 
 # Based on a user's order, work out their final bill. 
 # Small Pizza: $15
 # Medium Pizza: $20
