@@ -1,7 +1,7 @@
 # Pizza_Delivery_Order
 # Instructions
 # An automatic pizza order program. 
-# Based on a user's order, work out their final bill. 
+# Based on a user's order, it will work out their final bill. 
 # Small Pizza: $15
 # Medium Pizza: $20
 # Large Pizza: $25
