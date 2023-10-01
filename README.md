@@ -15,4 +15,9 @@ If a user enters the following order, it will generate the output below, under e
 * extra_cheese = "N"
 ## Example Output
 *Your final bill is: $28.
+## Note:
+The price values is not static, it can be dynamic.
+## Software/Platform
+* Python
+* Visual Studio Code
   
